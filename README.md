@@ -4,7 +4,7 @@
 ## 安装
 
 ```shell
-npm install coding-generic -g
+npm install coding-generic -g aaa
 ```
 
 ## 使用
